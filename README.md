@@ -1,2 +1,2 @@
-# ASM-blog
-this is a flask blog for an organization
+# The Tech Factory
+this is a Coding blog developed in python-flask
